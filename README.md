@@ -14,7 +14,7 @@ Skills:  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
 
 - 🔭 I’m currently working on this page. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ant-Acid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img src="https://wakatime.com/share/@d1c92954-7ef0-4528-b862-07f2286b1118/c7ef759d-b092-4059-8ec6-dff4a4880cf6.svg" height="400px">
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ant-Acid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img src="https://wakatime.com/share/@d1c92954-7ef0-4528-b862-07f2286b1118/c7ef759d-b092-4059-8ec6-dff4a4880cf6.svg" height="400px">-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
