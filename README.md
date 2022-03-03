@@ -1,3 +1,4 @@
+  [![HitCount](https://hits.dwyl.com/Ant-Acid/Ant-Acid/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/Ant-Acid/Ant-Acid/READMEmd)
 - 👋 Hi, I’m Catalin  
 - 👀 I’m interested in Full-Stack development 
 - 🌱 I’m currently learning HTML/CSS/JS
