@@ -1,8 +1,6 @@
 
 
 
----------------
-
 <h1 align="center">Hi 👋, I'm Catalin</h1>
 <h3 align="center">A passionate frontend developer from Kansas</h3>
 
@@ -10,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/therealcatalins" target="blank"><img src="https://img.shields.io/twitter/follow/therealcatalins?logo=twitter&style=for-the-badge" alt="therealcatalins" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@therealcatalins" target="blank"><img src="https://img.shields.io/twitter/follow/@therealcatalins?logo=twitter&style=for-the-badge" alt="@therealcatalins" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Just about anything!**
 
-- 👨‍💻 All of my projects are available at [www.catalinsiegling.com](catalinsiegling.com)
+- 👨‍💻 All of my projects are available at [catalinsiegling.com](catalinsiegling.com)
 
 - 📫 How to reach me **csiegling@gmail.com**
 
@@ -23,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/antacid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antacid" height="30" width="40" /></a>
-<a href="https://twitter.com/therealcatalins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealcatalins" height="30" width="40" /></a>
+<a href="https://twitter.com/@therealcatalins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@therealcatalins" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/catalin-siegling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catalin-siegling" height="30" width="40" /></a>
 </p>
 
@@ -33,3 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ant-acid&show_icons=true&locale=en&layout=compact" alt="ant-acid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ant-acid&show_icons=true&locale=en" alt="ant-acid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ant-acid&" alt="ant-acid" /></p>
+
