@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@thecatalins" target="blank"><img src="https://img.shields.io/twitter/follow/@thecatalins?logo=twitter&style=for-the-badge" alt="@thecatalins" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Just about anything!**
 
@@ -17,7 +17,7 @@
 
 #Projects
 =======================================================
-<img src="https://imgur.com/a/ylXw7C8" alt="Grill Project Example Gif" height="400"/>
+<img src="grillGif.gif" alt="Grill Project Example Gif" height="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
