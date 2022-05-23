@@ -7,7 +7,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **Just about anything!**
+- 👯 I’m looking to collaborate on **just about anything!**
 
 - 👨‍💻 All of my projects are available at [catalinsiegling.com](catalinsiegling.com)
 
