@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **csiegling@gmail.com**
 
-- ⚡ Fun fact **There are parts of Africa in all four hemispheres**
+- ⚡ Fun fact, **there are parts of Africa in all four hemispheres**
 
 #Projects
 =======================================================
