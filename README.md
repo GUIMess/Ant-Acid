@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Kansas</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ant-acid.readme&left_color=black&right_color=blue)
-
+<p align="center" dir="auto">
+  <a href="https://www.codewars.com/users/Ant-Acid" rel="nofollow"><img src="https://www.codewars.com/users/Ant-Acid/badges/large" style="max-width: 100%;"></a>
+</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
 
 
