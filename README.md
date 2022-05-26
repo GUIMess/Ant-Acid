@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ant-acid.readme&left_color=black&right_color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
 
 
 
@@ -17,9 +17,9 @@
 
 #Projects
 =======================================================
-<img src="grillGif.gif" alt="Grill Project Example Gif" height="400"/>
+<div align="center"><img src="grillGif.gif" alt="Grill Project Example Gif" height="400"/></div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/antacid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antacid" height="30" width="40" /></a>
   <a href="https://twitter.com/thecatalins" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="catalin sieglings twitter" height="47" width="47" /></a>
