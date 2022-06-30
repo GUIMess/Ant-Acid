@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catalin</h1>
-<h3 align="center">A passionate frontend developer from Kansas</h3>
+<h3 align="center">A passionate Full-Stack JavaScript engineer from Kansas</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ant-acid.readme&left_color=black&right_color=blue)
 <p align="left" dir="auto">
@@ -21,6 +21,8 @@
  <h1 align="center">Projects</h1>
 
 <div align="center"><img src="grillGif.gif" alt="Grill Project Example Gif" height="400"/></div>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/1313712/176764895-f6749e85-042e-4fe5-85db-349a87e001b8.gif" alt="Grill Project Example Gif" height="400"/></div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
