@@ -5,11 +5,13 @@
 <p align="left" dir="auto">
   <a href="https://www.codewars.com/users/Ant-Acid" rel="nofollow"><img src="https://www.codewars.com/users/Ant-Acid/badges/micro" style="max-width: 100%;"></a>
 </p>
+<p align="left"> <a href="https://twitter.com/thecatalins" target="blank"><img src="https://img.shields.io/twitter/follow/thecatalins?logo=twitter&style=for-the-badge" alt="thecatalins" /></a> </p>
+
+-------------------------------------------------------------------------------------------
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ant-acid" alt="ant-acid" /></a> </p>
 
-
-
-- 👯 I’m looking to collaborate on **just about anything!**
+-------------------------------------------------------------------------------------------
+- 🔭 I’m currently working on [Bubbas Recipes](https://github.com/Ant-Acid/bubbas-recipes)
 
 - 👨‍💻 All of my projects are available at [catalinsiegling.com](catalinsiegling.com)
 
