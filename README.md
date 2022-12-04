@@ -5,7 +5,7 @@
 <p align="left" dir="auto">
   <a href="https://www.codewars.com/users/Ant-Acid" rel="nofollow"><img src="https://www.codewars.com/users/Ant-Acid/badges/micro" style="max-width: 100%;"></a>
 </p>
-<p align="left"> <a href="https://twitter.com/thecatalins" target="blank"><img src="https://img.shields.io/twitter/follow/thecatalins?logo=twitter&style=for-the-badge" alt="thecatalins" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_cguy" target="blank"><img src="https://img.shields.io/twitter/follow/the_cguy?logo=twitter&style=for-the-badge" alt="thecatalins" /></a> </p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/catalin-siegling/)
 
