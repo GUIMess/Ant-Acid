@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [catalinsiegling.com](catalinsiegling.com)
 
-- 📄 Learn about my experience, here's [my resume](https://github.com/GUIMess/resume)
+- 📄 Learn about my experience, here's [my resume](https://docs.google.com/document/d/13ZcQj_t63TR2Af6JqTR7OmO12rVokJPfzs1U2uEPTjM/edit?usp=sharing)
 
 - 📫 How to reach me **csiegling@gmail.com**
 
