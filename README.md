@@ -31,7 +31,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/antacid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antacid" height="30" width="40" /></a>
-  <a href="https://twitter.com/thecatalins" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="catalin sieglings twitter" height="47" width="47" /></a>
+  <a href="https://twitter.com/the_cguy" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="catalin sieglings twitter" height="47" width="47" /></a>
 <a href="https://www.linkedin.com/in/catalin-siegling/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="catalin siegling linkedin" height="47" width="47" /></a>
   
 
