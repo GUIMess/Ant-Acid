@@ -24,9 +24,9 @@
 
  <h1 align="center">Projects</h1>
 
-<div align="center"><img src="grillGif.gif" alt="Grill Project Example Gif" height="400"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/1313712/225788740-cd8dd90c-1ef8-4e07-8079-0e421fe5ce11.gif" alt="Grill Project Example Gif" height="400" width="850"/></div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/1313712/176764895-f6749e85-042e-4fe5-85db-349a87e001b8.gif" alt="Grill Project Example Gif" height="400"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/1313712/176764895-f6749e85-042e-4fe5-85db-349a87e001b8.gif" alt="Grill Project Example Gif" height="400" width="850"/></div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
