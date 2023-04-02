@@ -13,7 +13,7 @@
 -------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on [How to take a test](https://github.com/bob-fornal/how-to-take-a-test)
 
-- 👨‍💻 All of my projects are available at [catalinsiegling.com](catalinsiegling.com)
+- 👨‍💻 All of my projects are available at [CatalinSiegling.com](https://www.catalinsiegling.com/)
 
 - 📄 Learn about my experience, here's [my resume](https://docs.google.com/document/d/13ZcQj_t63TR2Af6JqTR7OmO12rVokJPfzs1U2uEPTjM/edit?usp=sharing)
 
