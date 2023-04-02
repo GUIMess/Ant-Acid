@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Catalin+Siegling;A+Full-Stack+Engineer+from+Kansas" alt="Typing SVG" /></a></h1>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ant-acid.readme&left_color=black&right_color=blue)
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Catalin+Siegling;A+Full-Stack+Engineer+from+Kansas" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
