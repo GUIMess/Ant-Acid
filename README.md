@@ -31,7 +31,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GUIMess&show_icons=true&locale=en&count_private=true&theme=radical" alt="ant-acid" /><a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=GUIMess&count_private=true&theme=radical" alt="GUIMess" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=GUIMess&count_private=true&theme=radical&hide=stars" alt="GUIMess" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GUIMess&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="GUIMess" />
 <p align="center"> </a> </p>
