@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on [GoodReads For TV]((https://github.com/Dunder-Mifflin-Devs/GoodReadsForTV))
+- 🔭 I’m currently working on [GoodReads For TV](https://github.com/Dunder-Mifflin-Devs/GoodReadsForTV)
 
 - 👨‍💻 All of my finished projects are available at [CatalinSiegling.com](https://www.catalinsiegling.com/)
 
