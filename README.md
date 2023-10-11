@@ -9,9 +9,9 @@
 
 ---
 
-- 🔭 I’m currently working on [How to take a test](https://github.com/bob-fornal/how-to-take-a-test)
+- 🔭 I’m currently working on [GoodReads For TV]((https://github.com/Dunder-Mifflin-Devs/GoodReadsForTV))
 
-- 👨‍💻 All of my projects are available at [CatalinSiegling.com](https://www.catalinsiegling.com/)
+- 👨‍💻 All of my finished projects are available at [CatalinSiegling.com](https://www.catalinsiegling.com/)
 
 - 📄 Learn about my experience, here's [my resume](https://docs.google.com/document/d/13ZcQj_t63TR2Af6JqTR7OmO12rVokJPfzs1U2uEPTjM/edit?usp=sharing)
 
