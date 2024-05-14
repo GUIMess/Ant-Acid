@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my finished projects are available at [CatalinSiegling.com](https://www.catalinsiegling.com/)
 
-- 📄 Learn about my experience, here's [my resume](https://docs.google.com/document/d/13ZcQj_t63TR2Af6JqTR7OmO12rVokJPfzs1U2uEPTjM/edit?usp=sharing)
+- 📄 Learn about my experience, here's [my resume](https://docs.google.com/document/d/18SIiVPp2mY1locPGv337ULZNpgkF7mAy/edit?usp=sharing&ouid=100893791949286058814&rtpof=true&sd=true)
 
 - 📫 How to reach me **csiegling@gmail.com**
 
